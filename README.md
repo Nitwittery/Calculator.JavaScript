@@ -1,2 +1,2 @@
 # Calculator.JavaScript.HtmlStarter
-JavaScript Starter Calculator Project using HTML, CSS and JavaScript
+JavaScript Starter Calculator Project Html Starter File
